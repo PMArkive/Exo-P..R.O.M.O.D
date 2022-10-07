@@ -7,7 +7,7 @@ Includes:
 - tank and witch were enabled on all maps
 - antibaiter is now on
 - get-up time from tank has been increased(from 0.5 to 0.65)
-- common limit is 7
+- common limit is 8(most of the time)
 - respawn time is 3s
 - longer m2 penalty
 - has sniper rifles(scout and awp)
