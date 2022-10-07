@@ -11,3 +11,4 @@ Includes:
 - respawn time is 3s
 - longer m2 penalty
 - has sniper rifles(scout and awp)
+- no TLS campaign support
