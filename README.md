@@ -14,8 +14,8 @@ Includes:
 - no TLS campaign support
 
 
-																																					[ SPECIAL THANKS ]
-                                                                     
+																					
+[Special Thanks]                                                                      
 Forgetest (https://github.com/jensewe) for providing windows support + enhancing plugins for me!!!
 DerpDuck (https://github.com/Derpduck) for stripper files!
 Jacob404 (https://github.com/jacob404/) for Promod files! {https://github.com/jacob404/Pro-Mod-4.0}
