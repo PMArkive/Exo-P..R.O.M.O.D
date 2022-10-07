@@ -1,0 +1,223 @@
+"MapCvars"
+{
+	"c1m1_hotel"
+	{
+		"z_common_limit"	"8"
+	}
+	"c1m2_streets"
+	{
+		"z_common_limit"	"8"
+	}
+	"c1m3_mall"
+	{
+		"z_common_limit"	"8"
+	}
+	"c1m4_atrium"
+	{
+		"z_common_limit"	"6"
+	}
+	"c2m1_highway"
+	{
+		"z_common_limit"	"8"
+	}
+	"c2m2_fairgrounds"
+	{
+		"z_common_limit"	"8"
+	}
+	"c2m3_coaster"
+	{
+		"z_common_limit"	"6"
+	}
+	"c2m4_barns"
+	{
+		"z_common_limit"	"8"
+	}
+	"c2m5_concert"
+	{
+		"z_common_limit"	"8"
+	}
+	"c3m1_plankcountry"
+	{
+		"z_common_limit"	"8"
+	}
+	"c3m2_swamp"
+	{
+		"z_common_limit"	"8"
+	}
+	"c3m3_shantytown"
+	{
+		"z_common_limit"	"8"
+	}
+	"c3m4_plantation"
+	{
+		"z_common_limit"	"8"
+	}
+	"c4m1_milltown_a"
+	{
+		"z_common_limit"	"8"
+	}
+	"c4m2_sugarmill_a"
+	{
+		"z_common_limit"	"8"
+	}
+	"c4m3_sugarmill_b"
+	{
+		"z_common_limit"	"8"
+	}
+	"c4m4_milltown_b"
+	{
+		"z_common_limit"	"8"
+	}
+	"c4m5_milltown_escape"
+	{
+		"z_common_limit"	"8"
+	}
+	"c5m1_waterfront"
+	{
+		"z_common_limit"	"8"
+	}
+	"c5m2_park"
+	{
+		"z_common_limit"	"8"
+	}
+	"c5m3_cemetery"
+	{
+		"z_common_limit"	"8"
+	}
+	"c5m4_quarter"
+	{
+		"z_common_limit"	"8"
+	}
+	"c5m5_bridge"
+	{
+		"z_common_limit"	"5"
+	}
+	"c6m1_riverbank"
+	{
+		"z_common_limit"	"8"
+	}
+	"c6m2_bedlam"
+	{
+		"z_common_limit"	"8"
+	}
+	"c6m3_port"
+	{
+		"z_common_limit"	"6"
+	}
+	"c7m1_docks"
+	{
+		"z_common_limit"	"7"
+	}
+	"c7m2_barge"
+	{
+		"z_common_limit"	"7"
+	}
+	"c7m3_port"
+	{
+		"z_common_limit"	"7"
+	}
+	"c8m1_apartment"
+	{
+		"z_common_limit"	"8"
+	}
+	"c8m2_subway"
+	{
+		"z_common_limit"	"8"
+	}
+	"c8m3_sewers"
+	{
+		"z_common_limit"	"8"
+	}
+	"c8m4_interior"
+	{
+		"z_common_limit"	"6"
+	}
+	"c8m5_rooftop"
+	{
+		"z_common_limit"	"8"
+	}
+	"c9m1_alleys"
+	{
+		"z_common_limit"	"8"
+	}
+	"c9m2_lots"
+	{
+		"z_common_limit"	"8"
+	}
+	"c10m1_caves"
+	{
+		"z_common_limit"	"8"
+	}
+	"c10m2_drainage"
+	{
+		"z_common_limit"	"8"
+	}
+	"c10m3_ranchhouse"
+	{
+		"z_common_limit"	"8"
+	}
+	"c10m4_mainstreet"
+	{
+		"z_common_limit"	"7"
+	}
+	"c10m5_houseboat"
+	{
+		"z_common_limit"	"8"
+	}
+	"c11m1_greenhouse"
+	{
+		"z_common_limit"	"8"
+	}
+	"c11m2_offices"
+	{
+		"z_common_limit"	"8"
+	}
+	"c11m3_garage"
+	{
+		"z_common_limit"	"8"
+	}
+	"c11m4_terminal"
+	{
+		"z_common_limit"	"7"
+	}
+	"c11m5_runway"
+	{
+		"z_common_limit"	"10"
+	}
+	"c12m1_hilltop"
+	{
+		"z_common_limit"	"8"
+	}
+	"c12m2_traintunnel"
+	{
+		"z_common_limit"	"8"
+	}
+	"c12m3_bridge"
+	{
+		"z_common_limit"	"7"
+	}
+	"c12m4_barn"
+	{
+		"z_common_limit"	"8"
+	}
+	"c12m5_cornfield"
+	{
+		"z_common_limit"	"10"
+	}
+	"c13m1_alpinecreek"
+	{
+		"z_common_limit"	"8"
+	}
+	"c13m2_southpinestream"
+	{
+		"z_common_limit"	"8"
+	}
+	"c13m3_memorialbridge"
+	{
+		"z_common_limit"	"8"
+	}
+	"c13m4_cutthroatcreek"
+	{
+		"z_common_limit"	"7"
+	}
+}
