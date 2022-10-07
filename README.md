@@ -12,3 +12,11 @@ Includes:
 - longer m2 penalty
 - has sniper rifles(scout and awp)
 - no TLS campaign support
+
+
+																																					[ SPECIAL THANKS ]
+                                                                     
+Forgetest (https://github.com/jensewe) for providing windows support + enhancing plugins for me!!!
+DerpDuck (https://github.com/Derpduck) for stripper files!
+Jacob404 (https://github.com/jacob404/) for Promod files! {https://github.com/jacob404/Pro-Mod-4.0}
+Silvers (https://github.com/SilvDev) for creating commonlimit!
